@@ -1,7 +1,14 @@
+juapercas1
+En esta práctica, hemos utilizado un repositorio común y le hemos añadido a este diversos archivos,
+también hemos modificado algunos para que se producciera un conflicto y solucionarlo
+
+franuncid
 En esta práctica 8 de PGPI he hecho de Desarrollador junto con otro compañero y otro más que ha hecho de Gestor de Integraciones.
 
 Yo he realizado 2 Tareas: en la primera un .txt con los nombres de los integrantes y en la segunda tarea hacer un HolaMundo.c en
 el que se ha producido conflictos.
+
+anggutcej
 Pues yo he estado realizando al unificacion de eventos de otros años con los de este.
 Tambien he creado un programita muy complejo en el cual se ha escrito un "hola mundo"
 (yo diria que me he ganado mi salario este mes...)
