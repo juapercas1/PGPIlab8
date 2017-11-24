@@ -1,0 +1,2 @@
+En esta práctica, hemos utilizado un repositorio común y le hemos añadido a este diversos archivos,
+también hemos modificado algunos para que se producciera un conflicto y solucionarlo
