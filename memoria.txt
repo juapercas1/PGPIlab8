@@ -1,0 +1,4 @@
+En esta práctica 8 de PGPI he hecho de Desarrollador junto con otro compañero y otro más que ha hecho de Gestor de Integraciones.
+
+Yo he realizado 2 Tareas: en la primera un .txt con los nombres de los integrantes y en la segunda tarea hacer un HolaMundo.c en
+el que se ha producido conflictos.
